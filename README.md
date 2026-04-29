@@ -26,9 +26,9 @@ React, JavaScript, HTML, CSS, Vite, Tailwind CSS, Git, GitHub, Netlify
   A React dashboard for tracking job applications, interview stages, and progress.  
   Code: https://github.com/jwwilson1993/job-tracker-dashboard
 
-- **AI SaaS Landing Page Template**  
-  A polished React landing page template for AI SaaS products and waitlists.  
-  Code: https://github.com/jwwilson1993/ai-saas-template
+- **Guerita Inkz**  
+  A modern website for a tattoo-focused brand, built with Next.js, TypeScript, and responsive front-end design.  
+  Code: https://github.com/jwwilson1993/guerita-inkz
 
 ## Goal
 
