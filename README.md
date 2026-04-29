@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jake Wilson
 
-<!--
-**jwwilson1993/jwwilson1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring front-end developer focused on building responsive, user-friendly web apps with React, JavaScript, HTML, and CSS.
 
-Here are some ideas to get you started:
+I'm currently transitioning into tech from delivery work, and I'm building practical projects to strengthen my front-end skills and prepare for my first paid developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Building polished React portfolio projects
+- Practicing responsive design and clean component structure
+- Learning how to make apps feel more production-ready
+- Improving my GitHub, portfolio, and job application process
+
+## Tech I Use
+
+React, JavaScript, HTML, CSS, Vite, Tailwind CSS, Git, GitHub, Netlify
+
+## Featured Projects
+
+- **Personal Portfolio**  
+  A responsive portfolio website showcasing my projects and progress as a front-end developer.  
+  Live: https://jakes-port.netlify.app/  
+  Code: https://github.com/jwwilson1993/my-portfolio
+
+- **Job Tracker Dashboard**  
+  A React dashboard for tracking job applications, interview stages, and progress.  
+  Code: https://github.com/jwwilson1993/job-tracker-dashboard
+
+- **AI SaaS Landing Page Template**  
+  A polished React landing page template for AI SaaS products and waitlists.  
+  Code: https://github.com/jwwilson1993/ai-saas-template
+
+## Goal
+
+I'm working toward my first front-end developer role, ideally remote, where I can keep growing while contributing to real products.
