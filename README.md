@@ -23,9 +23,10 @@ React, JavaScript, HTML, CSS, Vite, Tailwind CSS, Git, GitHub, Netlify
   Code: https://github.com/jwwilson1993/my-portfolio
 
 - **Job Tracker Dashboard**  
-  A React dashboard for tracking job applications, interview stages, and progress.
-  Live: https://jwwilson1993.github.io/job-tracker-dashboard/   
+  A responsive React dashboard for tracking job applications, interview stages, and job search progress.  
+  Live: https://jwwilson1993.github.io/job-tracker-dashboard/  
   Code: https://github.com/jwwilson1993/job-tracker-dashboard
+
 
 - **Guerita Inkz**  
   A modern website for a tattoo-focused brand, built with Next.js, TypeScript, and responsive front-end design.  
